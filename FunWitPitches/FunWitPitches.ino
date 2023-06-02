@@ -67,3 +67,8 @@ void generateMIDI()
     Serial.println(midi[x]);
   }
 }
+
+void CowBell(int awesomeness)
+{
+    int x = awesomeness;
+}
